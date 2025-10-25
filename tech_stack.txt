@@ -4,3 +4,5 @@ LangChain
 Pinecone
 Flask
 AWS ---->> CI/CD
+
+Hugging Face Embedding Model = "sentence-transformers/all-MiniLM-L6-v2"

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Medical_Chatbot_With_LLMs_LangChain_Pinecone_Flask_AWS
+Version: 1.0.0
+Author: Adittya Saha
+Author-email: armstersaha8@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
