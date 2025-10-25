@@ -1,0 +1,6 @@
+python
+OpenAI GPT
+LangChain
+Pinecone
+Flask
+AWS ---->> CI/CD
