@@ -86,5 +86,3 @@ Adittya Saha
 <img width="1889" height="799" alt="Screenshot 2025-10-25 201125" src="https://github.com/user-attachments/assets/5084b870-5513-4ea2-b791-d7259398105a" />
 
 <img width="1053" height="788" alt="Screenshot 2025-10-25 194602" src="https://github.com/user-attachments/assets/f9341419-8070-48ef-9013-a52835eb9781" />
-
-
